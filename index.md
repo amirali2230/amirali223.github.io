@@ -8,7 +8,6 @@ Amirali is a structural engineering doctoral candidate at the University of Illi
 ![Research Topics](ResearchTopics.jpg "Title")
 
 ---
----
 
 ## Scholarly Writing
 - A. Najafi, B.F. Spencer, "Modified model-based control of shake tables for online acceleration tracking", Earthquake Engineering and Structural Dynamics, 2020. Available: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eqe.3326"> 10.1002/eqe.3326</a> 
