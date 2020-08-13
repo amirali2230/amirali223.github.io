@@ -23,3 +23,5 @@ Teaching history:
 - Teaching Assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
 
 Online content: 
+Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 video each and convey the most important aspects of each topic. 
+![Youtube Videos](Teaching.jpg "Title")
