@@ -6,7 +6,10 @@ Amirali is a structural engineering doctoral candidate at the University of Illi
 (3) Artificial intelligence solutions such as machine learning, computer vision, and big data analytics used for off-line high-performance modeling and simulation, and long-term prognosis of slow evolving but accumulating damage.
 
 ![Research Topics](ResearchTopics.jpg "Title")
+
 ---
+---
+
 ## Scholarly Writing
 - A. Najafi, B.F. Spencer, "Modified model-based control of shake tables for online acceleration tracking", Earthquake Engineering and Structural Dynamics, 2020. Available: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eqe.3326"> 10.1002/eqe.3326</a> 
 - A. Najafi, G.A. Fermandois, B.F. Spencer, "Decoupled model-based real-time hybrid simulation with multi-axial load and boundary condition boxes", Engineering Structures, vol. 219, 2020. Available:<a href="https://www.sciencedirect.com/science/article/pii/S0141029619344219"> 10.1016/j.engstruct.2020.110868</a> 
