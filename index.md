@@ -17,12 +17,13 @@ Amirali is a structural engineering doctoral candidate at the University of Illi
 
 ---
 ## Teaching
-
-Teaching history:
-- Course instructor: CEE360 - Introduction to Structural Engineering (Spring 2018)
-- Teaching Assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
-<br><br>
 Online content: <br>
 Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 video each and convey the most important aspects of each topic. 
 <br>
 ![Youtube Videos](teaching.jpg "Title")
+<br><br>
+Teaching history:
+- Course instructor: CEE360 - Introduction to Structural Engineering (Spring 2018)
+- Teaching Assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
+<br><br>
+
