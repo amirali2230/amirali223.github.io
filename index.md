@@ -1,4 +1,7 @@
+
 ## Welcome to GitHub Pages
+
+Amirali is a Structural engineering doctoral student at the University of Illinois at Urbana-Champaign's Civil and Environmental Engineering Department. His research focuses on: (1) full-scale structural testing, (2) multi-axial real-time hybrid simulation, and (3) structural health monitoring. 
 
 You can use the [editor on GitHub](https://github.com/amirali223/amirali223.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
