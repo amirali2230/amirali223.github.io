@@ -18,7 +18,7 @@ Amirali is a structural engineering doctoral candidate at the University of Illi
 ---
 ## Teaching
 ### Online content: <br>
-Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 video each and convey the most important aspects of each topic. 
+Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 videos each and convey the most important aspects of each topic. 
 <br>
 ![Youtube Videos](teaching.jpg "Title")
 <br><br>
