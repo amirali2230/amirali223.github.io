@@ -7,12 +7,16 @@ Amirali is a structural engineering doctoral candidate at the University of Illi
 
 ![Research Topics](ResearchTopics.jpg "Title")
 --
-
+```markdown
+Paper #1 <br>
+Paper #2 <br>
+Paper #3 <br>
+```
 You can use the [editor on GitHub](https://github.com/amirali223/amirali223.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
