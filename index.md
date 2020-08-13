@@ -1,13 +1,12 @@
 # Research Interests
 
-Amirali is a structural engineering doctoral candidate at the University of Illinois at Urbana-Champaign's Civil and Environmental Engineering Department. His research focuses on: 
-
+Amirali is a structural engineering doctoral candidate at the University of Illinois at Urbana-Champaign's Civil and Environmental Engineering Department. His research focuses on: <br><br>
 (1) Development of advanced experimental techniques for characterization of innovative and sustainable materials and structures, <br>
 (2) Autonomous rapid damage assessment techniques based on latest structural health monitoring sensing technologies, and <br>
 (3) Artificial intelligence solutions such as machine learning, computer vision, and big data analytics used for off-line high-performance modeling and simulation, and long-term prognosis of slow evolving but accumulating damage.
 
 ![Research Topics](ResearchTopics.jpg "Title")
-
+--
 
 You can use the [editor on GitHub](https://github.com/amirali223/amirali223.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
