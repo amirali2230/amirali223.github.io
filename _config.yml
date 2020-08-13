@@ -1,8 +1,7 @@
-github:
-  is_project_page: false
-
 theme: jekyll-theme-minimal
 title: Amirali Najafi
+github:
+  is_project_page: false
 logo: "/amirali.jpg?raw=true"
 description: >
   205 N. Mathews Ave. Urbana IL<br>
