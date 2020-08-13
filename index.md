@@ -24,4 +24,5 @@ Teaching history:
 <br><br>
 Online content: 
 Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 video each and convey the most important aspects of each topic. 
+<br>
 ![Youtube Videos](teaching.jpg "Title")
