@@ -1,4 +1,4 @@
-# Research Interests
+## Research Interests
 
 Amirali is a structural engineering doctoral candidate at the University of Illinois at Urbana-Champaign's Civil and Environmental Engineering Department. His research focuses on: <br><br>
 (1) Development of advanced experimental techniques for characterization of innovative and sustainable materials and structures, <br>
