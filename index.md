@@ -8,10 +8,10 @@ Amirali is a structural engineering doctoral candidate at the University of Illi
 ![Research Topics](ResearchTopics.jpg "Title")
 ---
 ## Scholarly Writing
-- A. Najafi, B.F. Spencer, "Modified model-based control of shake tables for online acceleration tracking", Earthquake Engineering and Structural Dynamics, 2020. Available: <a href="https://doi.org/10.1002/eqe.3326/"> 10.1002/eqe.3326</a> 
-- A. Najafi, G.A. Fermandois, B.F. Spencer, "Decoupled model-based real-time hybrid simulation with multi-axial load and boundary condition boxes", Engineering Structures, vol. 219, 2020. Available: 10.1016/j.engstruct.2020.110868
-- A. Najafi and B.F. Spencer, "Validation of model-based real-time hybrid simulation for a lightly-damped and highly-nonlinear structural system", Journal of Applied and Computational Mechanics, vol. 7, 2020. Available: 10.22055/JACM.2020.32584.2039
-- A. Najafi and B.F. Spencer, "Adaptive model reference control method for real-time hybrid simulation", Mechanical Systems and Signal Processing, vol. 132, pp. 183-193, 2019. Available: 10.1016/j.ymssp.2019.06.023.
+- A. Najafi, B.F. Spencer, "Modified model-based control of shake tables for online acceleration tracking", Earthquake Engineering and Structural Dynamics, 2020. Available: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eqe.3326"> 10.1002/eqe.3326</a> 
+- A. Najafi, G.A. Fermandois, B.F. Spencer, "Decoupled model-based real-time hybrid simulation with multi-axial load and boundary condition boxes", Engineering Structures, vol. 219, 2020. Available:<a href="https://www.sciencedirect.com/science/article/pii/S0141029619344219"> 10.1016/j.engstruct.2020.110868</a> 
+- A. Najafi and B.F. Spencer, "Validation of model-based real-time hybrid simulation for a lightly-damped and highly-nonlinear structural system", Journal of Applied and Computational Mechanics, vol. 7, 2020. Available:<a href="http://jacm.scu.ac.ir/article_15427_0.html"> 10.22055/JACM.2020.32584.2039</a> 
+- A. Najafi and B.F. Spencer, "Adaptive model reference control method for real-time hybrid simulation", Mechanical Systems and Signal Processing, vol. 132, pp. 183-193, 2019. Available: Available:<a href="https://www.sciencedirect.com/science/article/pii/S0888327019304066"> 10.1016/j.ymssp.2019.06.023</a> 
 
 
 You can use the [editor on GitHub](https://github.com/amirali223/amirali223.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
