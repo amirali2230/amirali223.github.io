@@ -1,6 +1,6 @@
 ## Research Interests
 
-Amirali is a structural engineering doctoral candidate at the University of Illinois at Urbana-Champaign's Civil and Environmental Engineering Department. His research focuses on: <br><br>
+Amirali is a Ph.D. candidate at the <a href="https://sstl.cee.illinois.edu/"> Smart Structures Technology Laboratory</a> at the University of Illinois at Urbana-Champaign, working with <a href="https://cee.illinois.edu/professor-billie-f-spencer">Dr. Billie F. Spencer</a>. His research focuses on: <br><br>
 (1) Development of advanced experimental techniques for characterization of innovative and sustainable materials and structures, <br>
 (2) Autonomous rapid damage assessment techniques based on latest structural health monitoring sensing technologies, and <br>
 (3) Artificial intelligence solutions such as machine learning, computer vision, and big data analytics used for off-line high-performance modeling and simulation, and long-term prognosis of slow evolving but accumulating damage.
