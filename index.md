@@ -24,6 +24,6 @@ Amirali has developed three online courses on intermediate and advance level str
 <br><br>
 ### Teaching history:
 - Course instructor: CEE360 - Introduction to Structural Engineering (Spring 2018)
-- Teaching Assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
+- Teaching assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
 <br><br>
 
