@@ -14,6 +14,7 @@ Amirali is a Ph.D. candidate at the <a href="https://sstl.cee.illinois.edu/"> Sm
 - A. Najafi, G.A. Fermandois, B.F. Spencer, "Decoupled model-based real-time hybrid simulation with multi-axial load and boundary condition boxes", Engineering Structures, vol. 219, 2020. Available:<a href="https://www.sciencedirect.com/science/article/pii/S0141029619344219"> 10.1016/j.engstruct.2020.110868</a> 
 - A. Najafi and B.F. Spencer, "Validation of model-based real-time hybrid simulation for a lightly-damped and highly-nonlinear structural system", Journal of Applied and Computational Mechanics, vol. 7, 2020. Available:<a href="http://jacm.scu.ac.ir/article_15427_0.html"> 10.22055/JACM.2020.32584.2039</a> 
 - A. Najafi and B.F. Spencer, "Adaptive model reference control method for real-time hybrid simulation", Mechanical Systems and Signal Processing, vol. 132, pp. 183-193, 2019. Available: <a href="https://www.sciencedirect.com/science/article/pii/S0888327019304066"> 10.1016/j.ymssp.2019.06.023</a> 
+- S. Tell, A. Andersson, A. Najafi, B.F. Spencer, and R. Karoumi, "Real-time hybrid testing for efficiency assessment of magnetorheological dampers to mitigate train-induced vibrations in bridges", International Journal of Rail Transportation, 2021. Available: <a href="https://www.tandfonline.com/doi/citedby/10.1080/23248378.2021.1954560?scroll=top&needAccess=true"> 10.1080/23248378.2021.1954560</a>
 
 ---
 ## Teaching
@@ -25,5 +26,7 @@ Amirali has developed three online courses on intermediate and advance level str
 ### Teaching history:
 - Course instructor: CEE360 - Introduction to Structural Engineering (Spring 2018)
 - Teaching assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
+- - Teaching assistant: CEE573 - Structural Dynamics II (Spring 2021)
 <br><br>
+
 
