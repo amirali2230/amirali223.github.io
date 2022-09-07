@@ -6,9 +6,10 @@ Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Cent
 (3) developing infrastructure asset investment planning tools for management of existing and new assets that enable infrastructure authorities and municipalities to use monitoring data-driven insights to guide decision making and capital investment planning over the life of an asset. 
 
 
-<video width="1280" height="720" controls autoplay muted loop>
-<source src="https://media.githubusercontent.com/media/amirali223/amirali223.github.io/master/media1 (1).mp4" type="video/mp4">
-</video>
+<div class="row video">
+   <iframe id="video" width="560" height="315" src="https://github.com/amirali223/amirali223.github.io/blob/master/Media1%20(1).mp4" frameborder="0" allow="autoplay; encrypted-media"
+       allowfullscreen></iframe>
+</div>
 
 ---
 
