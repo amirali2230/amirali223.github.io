@@ -12,6 +12,7 @@ An illustration for cyber-physical testing and simulation is Amirali's dissertat
 ---
 
 ## Scholarly Writing
+- S. Tell, A. Andersson, A. Najafi, B.F. Spencer, R. Karoumi, "Improved dynamic resilience of railway bridges using external dampers", Rail Infrastructure Resilience, A Best-Practices Handbook, 2022. Available: <a href="https://www.sciencedirect.com/science/article/pii/B9780128210420000137"> 10.1016/B978-0-12-821042-0.00013-7</a>
 - A. Najafi, "Multi-axial real-time hybrid simulation framework for testing nonlinear structure systems with multiple boundary interfaces", Doctoral Dissertation, University of Illinois at Urbana-Champaign, 2021. <a href="http://hdl.handle.net/2142/110408"> https://www.ideals.illinois.edu/handle/2142/110408</a>
 - A. Najafi, B.F. Spencer, "Multiaxial Real-time Hybrid Simulation for Substructuring with Multiple Boundary Points", Journal of Structural Engineering, vol. 147(11), 2021. Available: <a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003138"> 10.1061/(ASCE)ST.1943-541X.0003138</a>
 - S. Tell, A. Andersson, A. Najafi, B.F. Spencer, and R. Karoumi, "Real-time hybrid testing for efficiency assessment of magnetorheological dampers to mitigate train-induced vibrations in bridges", International Journal of Rail Transportation, 2021. Available: <a href="https://www.tandfonline.com/doi/citedby/10.1080/23248378.2021.1954560?scroll=top&needAccess=true"> 10.1080/23248378.2021.1954560</a>
