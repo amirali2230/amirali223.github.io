@@ -1,9 +1,10 @@
 ## Research Interests
 
-Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Center for Advanced Infrastructure and Transportation</a> at Rutgers Univeristy. His research focuses on: <br><br>
-(1) Development of advanced experimental techniques for characterization of innovative and sustainable materials and structures, <br>
-(2) Autonomous rapid damage assessment techniques based on latest structural health monitoring sensing technologies, and <br>
-(3) Artificial intelligence solutions such as machine learning, computer vision, and big data analytics used for off-line high-performance modeling and simulation, and long-term prognosis of slow evolving but accumulating damage.
+Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Center for Advanced Infrastructure and Transportation</a> at Rutgers Univeristy. His research focuses on cyber-physical approaches for: <br><br>
+(1) testing and simulation, such as hybrid simulation, for characterization of innovative and sustainable materials and structures, <br>
+(2) autonomous damage assessment, by developing digital twins with structural health monitoring and artificial intelligence capabilities, and <br>
+(3) developing infrastructure asset investment planning tools for management of existing and new assets that enable infrastructure authorities and municipalities to use monitoring data-driven insights to guide decision making and capital investment planning over the life of an asset. 
+
 
 ![Research Topics](ResearchTopics.jpg "Title")
 
