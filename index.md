@@ -7,8 +7,7 @@ Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Cent
 
 
 <video width="1280" height="720" controls autoplay muted loop>
-<source src="https://github.com/amirali223/amirali223.github.io/blob/master/Media1%20(1).mp4" type="video/mp4">
- Your browser does not support the video tag.
+<source src="https://media.githubusercontent.com/media/amirali223/amirali223.github.io/master/media1 (1).mp4" type="video/mp4">
 </video>
 
 ---
