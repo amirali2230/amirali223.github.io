@@ -5,7 +5,7 @@ Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Cent
 (2) autonomous damage assessment, by developing digital twins with structural health monitoring and artificial intelligence capabilities, and <br>
 (3) developing infrastructure asset investment planning tools for management of existing and new assets that enable infrastructure authorities and municipalities to use monitoring data-driven insights to guide decision making and capital investment planning over the life of an asset. 
 
-
+An illustration for cyber-physical testing and simulation is Amirali's dissertation research on <a href="http://hdl.handle.net/2142/110408"> Multi-Axial Real-Time Hybrid Simulation</a>, which allows for characterization of structural systems subject to natural hazards, by only testing structural elements of interest and numerically simulating the rest of the structure. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzkvsCbmaf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
