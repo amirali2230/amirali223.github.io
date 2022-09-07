@@ -8,7 +8,7 @@ Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Cent
 
 
 <div class="row video">
-<iframe id="video" width="560" height="315" src="https://youtu.be/zzkvsCbmaf4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/watch?v=zzkvsCbmaf4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </div>
 
 ---
