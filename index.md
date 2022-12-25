@@ -12,6 +12,7 @@ An illustration for cyber-physical testing and simulation is Amirali's dissertat
 ---
 
 ## Scholarly Writing
+- A. Najafi, G.A. Fermandois, S.J. Dyke, and B.F. Spencer, "Hybrid simulation with multiple actuators: A state-of-the-art review", Engineering Structures, vol. 276, 2023. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029622013608"> 10.1016/j.engstruct.2022.115284</a>
 - S. Wang, C. Rodgers, G. Zhai, T. N. Matiki, B. Welsh, A. Najafi, J. Wang, Y. Narazaki, V. Hoskere, and B.F. Spencer, "A graphics-based digital twin framework for computer vision-based post-earthquake structural inspection and evaluation using unmanned aerial vehicles", Journal of Infrastructure Intelligence and Resilience, vol. 1, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S2772991522000032"> 10.1016/j.iintel.2022.100003</a>
 - O. Lawal, A. Najafi, T. Hoang, S.A.V. Shajihan, K. Mechitov, and B.F. Spencer, "Development and Validation of a Framework for Smart Wireless Strain and Acceleration Sensing", Sensors, vol. 5, 2022. Available: <a href="https://www.mdpi.com/1424-8220/22/5/1998"> 10.3390/s22051998</a>
 - S. Tell, A. Andersson, A. Najafi, B.F. Spencer, and R. Karoumi, "Improved dynamic resilience of railway bridges using external dampers", Rail Infrastructure Resilience, A Best-Practices Handbook, vol. 10, 2022. Available: <a href="https://www.sciencedirect.com/science/article/pii/B9780128210420000137"> 10.1016/B978-0-12-821042-0.00013-7</a>
