@@ -37,6 +37,7 @@ Amirali has developed three online courses on intermediate and advance level str
 [![Youtube Videos](teaching.jpg "Title")](https://www.youtube.com/user/amirali23/playlists?view_as=subscriber)
 <br><br>
 ### Teaching history:
+- Course instructor: 16:180:602 - Advanced Topics in Civil Engineering: Intelligent Infrastructure
 - Course instructor: CEE360 - Introduction to Structural Engineering (Spring 2018)
 - Teaching assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
 - Teaching assistant: CEE573 - Structural Dynamics II (Spring 2021)
