@@ -1,6 +1,6 @@
 ## Research Interests
 
-Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Center for Advanced Infrastructure and Transportation</a> at Rutgers Univeristy. His research focuses on cyber-physical approaches for: <br><br>
+Amirali is a Research Associate at the <a href="https://cait.rutgers.edu/"> Center for Advanced Infrastructure and Transportation</a> at Rutgers University. His research focuses on cyber-physical approaches for: <br><br>
 (1) testing and simulation, such as hybrid simulation, for characterization of innovative and sustainable materials and structures, <br>
 (2) autonomous damage assessment, by developing digital twins with structural health monitoring and artificial intelligence capabilities, and <br>
 (3) developing infrastructure asset investment planning tools for management of existing and new assets that enable infrastructure authorities and municipalities to use monitoring data-driven insights to guide decision making and capital investment planning over the life of an asset. 
@@ -12,6 +12,7 @@ An illustration for cyber-physical testing and simulation is Amirali's dissertat
 ---
 
 ## Scholarly Writing
+- A. Najafi, J. Braley, N. Gucunski, A. Maher, "Generative adversarial network for predicting visible deterioration and NDE condition maps in highway bridge decks", Journal, Journal of Infrastructure Intelligence and Resilience, vol. 2(2), 2023. <a href="https://www.sciencedirect.com/science/article/pii/S2772991523000178"> 10.1016/j.iintel.2023.100042 
 - A. Najafi, G.A. Fermandois, S.J. Dyke, and B.F. Spencer, "Hybrid simulation with multiple actuators: A state-of-the-art review", Engineering Structures, vol. 276, 2023. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029622013608"> 10.1016/j.engstruct.2022.115284</a>
 - S. Wang, C. Rodgers, G. Zhai, T. N. Matiki, B. Welsh, A. Najafi, J. Wang, Y. Narazaki, V. Hoskere, and B.F. Spencer, "A graphics-based digital twin framework for computer vision-based post-earthquake structural inspection and evaluation using unmanned aerial vehicles", Journal of Infrastructure Intelligence and Resilience, vol. 1, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S2772991522000032"> 10.1016/j.iintel.2022.100003</a>
 - O. Lawal, A. Najafi, T. Hoang, S.A.V. Shajihan, K. Mechitov, and B.F. Spencer, "Development and Validation of a Framework for Smart Wireless Strain and Acceleration Sensing", Sensors, vol. 5, 2022. Available: <a href="https://www.mdpi.com/1424-8220/22/5/1998"> 10.3390/s22051998</a>
